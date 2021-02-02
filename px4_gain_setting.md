@@ -46,7 +46,7 @@ QGroundControl > Parameters
 | ---  | ---     | ---         | --- |
 | `MPC_LAND_ALT1` | 10.0 | 5.0 | m |
 | `MPC_LAND_ALT2` | 5.0 | 2.0 | m |
-| `MPC_MANTHR_MIN` | 8.0 | 10.0 | '%' |
+| `MPC_MANTHR_MIN` | 8.0 | 10.0 | % |
 | `MPC_VEL_MANUAL` | 10.0 | 4.0 | m/s |
 | `MPC_XY_CRUISE` | 5.0 | 3.0 | m/s |
 | `MPC_XY_VEL_MAX` | 12.0 | 4.0 | m/s |
