@@ -25,7 +25,7 @@ QGroundControl > Parameters
 
 
 
-### MAVLink
+### MAVLink 
 | name | default | tuned value | unit |
 | ---  | ---     | ---         | ---  |
 | `MAV_1_CONFIG` | - | - | - |
@@ -43,9 +43,9 @@ QGroundControl > Parameters
 
 ### Multicopter Position Control
 | name | defualt | tuned value | unit |
-| ---  | ---     | ---         | unit |
+| ---  | ---     | ---         | --- |
 | `MPC_LAND_ALT1` | 10.0 | 5.0 | m |
-| `MPC_LAND_ALT2` | 5.0  | 2.0 | m |
+| `MPC_LAND_ALT2` | 5.0 | 2.0 | m |
 | `MPC_MANTHR_MIN` | 8.0 | 10.0 | % |
 | `MPC_VEL_MANUAL` | 10.0 | 4.0 | m/s |
 | `MPC_XY_CRUISE` | 5.0 | 3.0 | m/s |
@@ -53,6 +53,7 @@ QGroundControl > Parameters
 | `MPC_Z_P` | 1.0 | 0.3 | - |
 | `MPC_Z_VEL_MAX_DN` | 1.0 | 0.6 | m/s |
 | `MPC_Z_VEL_MAX_UP` | 3.0 | 0.6 | m/s |
+
 
 ### Multicopter Rate Control
 | name | default | tuned value | unit |
